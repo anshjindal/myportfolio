@@ -23,20 +23,19 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Ansh Jindal</strong>. I'm originally from India and have been living in Canada for the past one year. During my time here, I gained valuable experience through various internship positions, which greatly enhanced my technical skills, work ethic, communication skills, and adaptability.
+            Welcome to my portfolio! I am <strong>Ansh Jindal</strong>, a passionate and highly motivated Full Stack Web Developer with a strong foundation in the MERN stack and extensive experience in creating cutting-edge web applications. My journey in web development has been marked by a relentless pursuit of excellence, driven by a passion for crafting seamless user experiences, optimizing cross-platform performance, and ensuring fast load times. My professional experience includes key roles at Reknowledging Inc. and Jhajharia Nirman Ltd., where I developed reusable React components, led website development initiatives, and collaborated closely with UI/UX designers to refine user journeys.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            In addition to my professional achievements, I am currently pursuing a Master of Science in Project Management with a minor in IT at Northeastern University, Toronto. My academic background has further enhanced my technical expertise and project management skills, enabling me to excel in both individual and collaborative environments. As the Executive Director of the Northeastern University Coding Society (NUCS), I lead a dynamic team of developers, organize coding events, and foster a community of tech enthusiasts. My leadership role in NUCS has honed my abilities in team management, communication, and event coordination, all of which are integral to my success as a developer. RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+            Beyond my academic and professional pursuits, I am dedicated to making a positive impact in the community. As a volunteer at Biosphere Eco City Canada, I contribute to initiatives focused on sustainable development and environmental conservation. This experience has deepened my understanding of the importance of technology in addressing global challenges and has inspired me to integrate sustainable practices into my work. I invite you to explore my portfolio to learn more about my projects, skills, and contributions to the field of web development.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
