@@ -35,7 +35,7 @@ function About() {
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-            Beyond my academic and professional pursuits, I am dedicated to making a positive impact in the community. As a volunteer at Biosphere Eco City Canada, I contribute to initiatives focused on sustainable development and environmental conservation. This experience has deepened my understanding of the importance of technology in addressing global challenges and has inspired me to integrate sustainable practices into my work. I invite you to explore my portfolio to learn more about my projects, skills, and contributions to the field of web development.
+            Beyond my academic and professional pursuits, I am dedicated to making a positive impact in the community. As a volunteer at Biosphere Eco City Canada, I contribute to initiatives focused on sustainable development and environmental conservation.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
