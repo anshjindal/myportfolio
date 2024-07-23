@@ -23,7 +23,7 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Welcome to my portfolio! I am <strong>Ansh Jindal</strong>, a passionate and highly motivated Full Stack Web Developer with a strong foundation in the MERN stack and extensive experience in creating cutting-edge web applications. My journey in web development has been marked by a relentless pursuit of excellence, driven by a passion for crafting seamless user experiences, optimizing cross-platform performance, and ensuring fast load times. My professional experience includes key roles at Reknowledging Inc. and Jhajharia Nirman Ltd., where I developed reusable React components, led website development initiatives, and collaborated closely with UI/UX designers to refine user journeys.
+            Welcome to my portfolio! I am <strong>Ansh Jindal</strong>, a passionate and highly motivated Full Stack Web Developer with a strong foundation in the MERN stack and extensive experience in creating cutting-edge web applications. My journey in web development has been marked by a relentless pursuit of excellence, driven by a passion for crafting seamless user experiences, optimizing cross-platform performance, and ensuring fast load times. My professional experience includes key roles at Reknowledging Inc. and JNL., where I developed reusable React components, led website development initiatives, and collaborated closely with UI/UX designers to refine user journeys.
             </ScrollAnimation>
 
             <br /><br />
