@@ -44,11 +44,11 @@ function Hero() {
                   cursor={true}
                   sequence={[
                     500,
-                    'A Software Developer.',
+                    'A Software Developer',
                     1000,
-                    'A problem solver.',
+                    'A problem solver',
                     1000,
-                    'An innovative thinker.',
+                    'An innovative thinker',
                     300,
                     () => setShowScrollDown(true),
                     1000,
