@@ -1,5 +1,13 @@
 // --------------------------------------- Project List
-export const ProjectList = [
+export const ProjectList = [{
+  img: "/iss.png",
+  title: "NGO Indraprastha Sewa Samiti",
+  description:
+    "An NGO registered under Society Registeration Act 1860 working for welfare of the public.",
+  tech_stack: ["HTML", "CSS", , "ReactJs", "NodeJs", "MongoDB"],
+  github_url: "https://github.com/anshjindal/indraprastha-frontend",
+  demo_url: "https://www.indraprasthasewa.in/",
+},
   {
     img: "/studybuddythumbnail.png",
     title: "Study Buddy App",
